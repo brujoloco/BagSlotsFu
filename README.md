@@ -1,8 +1,13 @@
  ## BagSlotsFu
 
+![Fubar BagSlotsFu](https://raw.githubusercontent.com/brujoloco/Images/refs/heads/main/Fubar1.png)
+
 **BagSlotsFu** is a lightweight FuBar addon designed exclusively for **World of Warcraft 1.12 (Vanilla)**. It displays your **current free slots** and **total slots** in your bags. The addon is always on, ensuring efficient functionality. It also comes bundled with old FuBar-compatible libraries for seamless integration on WoW 1.12 private servers.
 
 This addon is a perfect companion to **BankSlotsFu**, allowing players to monitor both their bag and bank space in tandem.
+
+![Bags and Bank Slots in Fubar](https://raw.githubusercontent.com/brujoloco/Images/refs/heads/main/Fubar2.jpg
+)
 
 ## Features
 - **Bag Slot Tracking**: Displays the number of currently free slots and total slots in your bank.
