@@ -41,10 +41,13 @@ Use it in tandem with BankSlotsFu to monitor both your bank and bag free slots
 
 
 ## Addon Pairing
-BagSlotsFu is designed to be used alongside BankSlotsFu, but both addons can function independently. Together, they provide a complete overview of your inventory and bank space for efficient resource management.
+BagSlotsFu is designed to be used alongside BankSlotsFu, located here: ![BankSlotsFu](https://github.com/brujoloco/BankSlotsFu)
+but both addons can function independently. 
+
+Together, they provide a complete overview of your inventory and bank space for efficient resource management.
 
 Feedback and Support
-If you encounter issues or have suggestions for improvements, please open an issue on the [GitHub repository].
+If you encounter issues or have suggestions for improvements, please open an issue.
 
 License
 This project is licensed under the MIT License.
